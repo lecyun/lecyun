@@ -10,7 +10,7 @@
 
 <!-- 访客计数 & 关注 -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=lecyun&label=%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&color=58a6ff&style=flat-square" alt="访问量" />
+  <img src="https://komarev.com/ghpvc/?username=lecyun&label=Profile+Views&color=58a6ff&style=flat-square" alt="访问量" />
   <a href="https://github.com/lecyun?tab=followers">
     <img src="https://img.shields.io/github/followers/lecyun?label=Followers&style=flat-square&color=blue" alt="followers" />
   </a>
