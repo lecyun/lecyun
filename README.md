@@ -1,7 +1,7 @@
 <!-- 顶部波浪 Banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%20I'm%20lecyun&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Back-end%20%26%20Full-stack%20Developer&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%20I'm%20lecyun&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Back-end%20%2F%20Full-stack%20Developer&descSize=18&descAlignY=55" />
 
 <!-- 中文打字机动画 -->
 <a href="https://github.com/lecyun">
